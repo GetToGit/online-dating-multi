@@ -1,0 +1,59 @@
+{
+  "properties": [
+    {
+      "name": "server",
+      "type": "java.lang.String",
+      "description": "Description for server."
+    },
+    {
+      "name": "spring",
+      "type": "java.lang.String",
+      "description": "Description for spring."
+    },
+    {
+      "name": "spring.datasource",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource."
+    },
+    {
+      "name": "mybaties-plus",
+      "type": "java.lang.String",
+      "description": "Description for mybaties-plus."
+    },
+    {
+      "name": "diver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for diver-class-name."
+    },
+    {
+      "name": "url",
+      "type": "java.lang.String",
+      "description": "Description for url."
+    },
+    {
+      "name": "username",
+      "type": "java.lang.String",
+      "description": "Description for username."
+    },
+    {
+      "name": "password",
+      "type": "java.lang.String",
+      "description": "Description for password."
+    },
+    {
+      "name": "type",
+      "type": "java.lang.String",
+      "description": "Description for type."
+    },
+    {
+      "name": "spring.jpa.propeties.hiberbate",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.propeties.hiberbate."
+    },
+    {
+      "name": "mybaties-plus.mapper-locations:classpath",
+      "type": "java.lang.String",
+      "description": "Description for mybaties-plus.mapper-locations:classpath."
+    }
+  ]
+}
